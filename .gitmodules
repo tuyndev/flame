@@ -1,0 +1,3 @@
+[submodule "flutter_flame_lib"]
+	path = flutter_flame_lib
+	url = https://source.vtconline.vn/flutter-games/flutter-game-core.git
